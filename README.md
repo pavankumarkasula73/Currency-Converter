@@ -63,20 +63,20 @@ A simple, stylish, and efficient **Currency Converter** application that allows 
 Open the index.html file in your browser.
 Enjoy seamless currency conversion!
 
-##📈 Future Improvements
+## 📈 Future Improvements
 Add a dark mode for enhanced user experience.
 Integrate a currency chart to visualize exchange rate trends.
 Support for offline mode with cached rates.
 Add language localization.
 
-##🌟 Demo
+## 🌟 Demo
 Access the live demo here:  https://currency-converter-dusky-alpha.vercel.app/
 
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License. Feel free to use and modify it as per your needs.
 
-##📬 Contact
+## 📬 Contact
 Developer: Kasula PavanKumar
 Email: sendmailtop1@gmail.com
 GitHub: pavankumarkasula73
