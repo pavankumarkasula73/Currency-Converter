@@ -55,7 +55,7 @@ A simple, stylish, and efficient **Currency Converter** application that allows 
 
 1. Clone this repository:
    ```bash
-   git clone
+   git clone https://github.com/pavankumarkasula73/Currency-Converter.git
 
 
 
